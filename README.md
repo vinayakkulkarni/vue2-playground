@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/vinayakkulkarni/vue2-playground/badges/gpa.svg)](https://codeclimate.com/github/vinayakkulkarni/vue2-playground)
+
 # vue2-playground
 
 > A Vue.js project
